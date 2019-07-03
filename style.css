@@ -18,6 +18,10 @@ h1 {
     width: 900px;
     justify-content: center;
 }
+.loader {
+    width: 150px;
+    heigth: 100px;
+}
 .animate-elements {
     background-color: #fff;
 }
