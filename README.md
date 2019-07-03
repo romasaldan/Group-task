@@ -1,3 +1,3 @@
 # Group-task
 
-https://maxhogart.github.io/Group-task/index.html
+ https://maxhogart.github.io/Group-task/
