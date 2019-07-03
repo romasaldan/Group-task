@@ -36,9 +36,10 @@ h1 {
 	margin-right: auto;
 }
 .first-disk-6  {
-  animation-duration: 2s;
-  animation-name: first-disk-6;
-  animation-iteration-count: infinite;	
+ 	 animation-duration: 2s;
+  	animation-name: first-disk-6;
+  	animation-timing-function: linear;
+	animation-iteration-count: infinite;	
 	border-radius: 50%;
 	position: absolute;
 	right: 10%;
@@ -54,9 +55,10 @@ h1 {
 	top: 10%;
 	width: 0%;
 	height: 0%;
-  animation-duration: 2s;
-  animation-name: second-disk-6;
-  animation-iteration-count: infinite;	
+	animation-timing-function: linear;
+  	animation-duration: 2s;
+  	animation-name: second-disk-6;
+  	animation-iteration-count: infinite;	
 }
 
 @keyframes first-disk-6 {
